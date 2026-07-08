@@ -9,7 +9,6 @@ Successfully completed an Artificial Intelligence and Machine Learning Internshi
 - Artificial Intelligence
 - Machine Learning
 - Problem Solving
-- Analytical Thinking
 
 ## Learning Outcome
 Developed a strong foundation in AI and ML concepts through practical learning activities. Enhanced programming, analytical, and problem-solving skills while understanding real-world applications of Artificial Intelligence and Machine Learning.
