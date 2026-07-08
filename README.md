@@ -1,1 +1,1 @@
-# Internship-in-AI-ML
+# AI-ML-Internship
